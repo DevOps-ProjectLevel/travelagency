@@ -41,7 +41,7 @@ The application is built using Maven, Hibernate, Spring MVC (Thymeleaf or JSP + 
 
 - **Programming Language back-end:** Java
 - **Database:** MySql
-- **Required Tools:** Java 16, Maven 3.6.3
+- **Required Tools:** Java 17, Maven 3.6.3
 
 ### Running the Project
 
